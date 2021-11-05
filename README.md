@@ -17,6 +17,4 @@ Initial use-case lists(TBD).
 
 * data processing
 
-
-
-
+#saas #clound #api #data
