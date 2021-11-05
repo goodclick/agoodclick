@@ -1,6 +1,12 @@
 # agoodclick
 Building a unified data model that works for most popular software use-cases. 
 
+WHY?
+
+Unified Data Model + SAAS + Cloud means
+* Decouple tech details from users.
+* No Operational Overhead
+
 Initial API lists(TBD).
 
 * Data Channel 
