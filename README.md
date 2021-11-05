@@ -11,11 +11,11 @@ Initial API lists(TBD).
 
 Initial use-case lists(TBD).
 
-* server
+* server (#httpserver)
 
-* non-SQL database
+* non-SQL database(#mongodb)
 
-* data processing
+* data processing (#spark #flink)
 
 #saas #clound #api #data
 
