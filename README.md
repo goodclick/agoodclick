@@ -1,7 +1,7 @@
 # agoodclick
-Trying to build a set of unified APIs for most popular software use-cases. Initial attempt would be for data processing and storages use-cases.
+Trying to build a data model that works for most popular software use-cases. Initial attempt would be for data processing and storages use-cases.
 
-API lists:
+Initial API lists.
 
 Data Channel 
 
