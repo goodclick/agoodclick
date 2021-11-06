@@ -11,9 +11,11 @@ Initial API lists(TBD).
 
 * Data Channel 
 
-* Data Input
+* Data Producer
 
-* Data Output
+* Data Consumer
+
+* Data Operator
 
 Initial use-case lists(TBD).
 
